@@ -16,7 +16,7 @@
     MySql is used for Data storing.
     itextpdf jar file is used for converting data into pdf format.
    
-#### some screenshots.
+### some screenshots.
 
 ![projectsnap1](https://user-images.githubusercontent.com/48486760/135765752-ac819dd6-8615-4dff-bdd4-8d40cc61c955.PNG)
 ![projectsnap2](https://user-images.githubusercontent.com/48486760/135765759-075b774f-e7a9-47bd-b1c8-a767e1f7502d.PNG)
